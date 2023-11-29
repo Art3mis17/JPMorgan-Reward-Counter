@@ -2,6 +2,7 @@ class RewardValue {
     private double cashValue;
     private double milesValue;
 
+    public String a;
     // Constructor that accepts cash value
     public RewardValue(double cashValue) {
         this.cashValue = cashValue;
